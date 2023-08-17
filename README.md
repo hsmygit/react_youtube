@@ -1,4 +1,4 @@
-# react_youtube_Clone coding
+# react_youtube_Clone coding (https://hsmygit.github.io/react_youtube/)
 
 ![image](https://github.com/hsmygit/react_youtube/assets/132031871/667bcd87-5e7b-4894-afb9-4e16350c9be0)
 
